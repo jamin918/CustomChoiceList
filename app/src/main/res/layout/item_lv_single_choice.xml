@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheckedTextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tv_single_choice"
+    android:layout_width="match_parent"
+    android:layout_height="?android:attr/listPreferredItemHeightSmall"
+    android:textSize="14sp"
+    android:gravity="center_vertical"
+    android:checkMark="?android:listChoiceIndicatorSingle"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp">
+
+
+</CheckedTextView>
